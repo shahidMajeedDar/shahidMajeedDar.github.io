@@ -1,8 +1,0 @@
-This is a placeholder file. 
-
-Please replace this with your actual profile image named 'profile.jpg'.
-
-You can add your photo here by:
-1. Renaming your image to 'profile.jpg'
-2. Placing it in this 'assets' folder
-3. Deleting this text file
