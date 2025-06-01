@@ -79,10 +79,10 @@ a {
   width: 180px;
   height: 180px;
   border: 5px solid rgba(255, 255, 255, 0.3);
-  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
-  /* object-fit: cover; */
-  object-fit: contain;         
-  background-color: white;      
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);   
+  object-fit: cover;
+  object-position: center;
+  transform: scale(0.9);   
 }
 
 .social-links {
