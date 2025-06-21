@@ -197,7 +197,7 @@ function initTypewriter() {
       const skills = originalText.split('|').map(skill => skill.trim());
       // If no skills were found, use default skills
       if (skills.length < 2) {
-        skills.push("AI Engineer", "ML & LLM Enthusiast", "FastAPI Developer");
+        skills.push("Applied Microeconomics", "Health and Family Economics", "Impact Evaluation of Public Policies", "Gender and Sanitation Economics");
       }
       
       let titleIndex = 0;
